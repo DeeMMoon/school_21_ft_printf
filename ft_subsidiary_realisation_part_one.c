@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_subsidiary_realisation_part_one.c               :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: gantedil <gantedil@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/10 12:29:44 by gantedil          #+#    #+#             */
-/*   Updated: 2021/11/10 12:29:44 by gantedil         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "headers/ft_printf.h"
 
 void	ft_print_symbol(t_specifier *parametr, char symbol)

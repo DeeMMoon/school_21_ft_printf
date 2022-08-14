@@ -1,15 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_subsidiary_realisation_part_two.c               :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: gantedil <gantedil@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/10 12:32:42 by gantedil          #+#    #+#             */
-/*   Updated: 2021/11/10 12:32:42 by gantedil         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
 #include "headers/ft_printf_bonus.h"
 
 void	ft_print_minus(t_specifier *parametr)
